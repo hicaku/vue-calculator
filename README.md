@@ -1,5 +1,7 @@
 # Vue Calculator
 
+**Live Demo:  [Vue Calculator](https://calculator.hicaku.com/)**
+
 Hi! In this project I try to develop a calculator app with **Vue, Typescript, Pinia, Tailwind CSS, Vite**.
 
 If you want to try it out you can simply click **Code > Copy Icon** and go to your Terminal/Cmd etc.
